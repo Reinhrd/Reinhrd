@@ -20,11 +20,11 @@ I enjoy building data projects that move from **raw data** to **clear insights**
 
 My work sits around:
 
-- 📊 **Data analytics & visualization** — exploring patterns and communicating findings clearly.
-- 🧠 **Machine learning** — building, evaluating, and improving predictive models.
-- ⏱️ **Time series & forecasting** — understanding change over time through data.
-- 🐍 **Python workflows** — creating reproducible pipelines, notebooks, and dashboards.
-- 📈 **Quantitative research** — testing market and behavioral hypotheses with transparent evaluation.
+- 📊 **Data analytics & visualization** ——> exploring patterns and communicating findings clearly.
+- 🧠 **Machine learning** ——> building, evaluating, and improving predictive models.
+- ⏱️ **Time series & forecasting** ——> understanding change over time through data.
+- 🐍 **Python workflows** ——> creating reproducible pipelines, notebooks, and dashboards.
+- 📈 **Quantitative research** ——> testing market and behavioral hypotheses with transparent evaluation.
 
 > **My approach:** understand the data → validate the logic → communicate the result.
 
