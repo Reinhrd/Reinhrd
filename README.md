@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I enjoy building data projects that move from **raw data** to **clear insights**, then into models, visualizations, and practical decision support.
 
@@ -30,7 +30,7 @@ My work sits around:
 
 ---
 
-## 🧭 How I Like to Build
+## How I Like to Build
 
 ```mermaid
 flowchart LR
@@ -43,7 +43,7 @@ flowchart LR
 
 ---
 
-## ✨ Areas I Explore
+## Areas I Explore
 
 <table>
   <tr>
@@ -70,7 +70,7 @@ flowchart LR
 
 ---
 
-## 🚀 Selected Work
+## Selected Work
 
 | Project | What it explores | Main tools |
 |---|---|---|
@@ -83,7 +83,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -101,7 +101,7 @@ flowchart LR
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -117,7 +117,7 @@ flowchart LR
 
 ---
 
-## 🌱 Current Direction
+## Current Direction
 
 ```text
 Data → Structure → Pattern → Validation → Insight → Decision
