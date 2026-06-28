@@ -34,11 +34,11 @@ My work sits around:
 
 ```mermaid
 flowchart LR
-    A[📥 Raw Data] --> B[🔎 Explore & Understand]
-    B --> C[🧹 Clean & Engineer Features]
-    C --> D[🧠 Model & Validate]
-    D --> E[📊 Visualize & Explain]
-    E --> F[💡 Decision Support]
+    A[Raw Data] --> B[Explore & Understand]
+    B --> C[Clean & Engineer Features]
+    C --> D[Model & Validate]
+    D --> E[Visualize & Explain]
+    E --> F[Decision Support]
 ```
 
 ---
@@ -48,21 +48,21 @@ flowchart LR
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Analytics & Dashboards</h3>
+      <h3>Analytics & Dashboards</h3>
       <p>Turning operational data into KPI views, customer insights, and management-ready stories.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Machine Learning</h3>
+      <h3>Machine Learning</h3>
       <p>Classification, evaluation, feature engineering, and explainable experimentation.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⏱️ Time Series</h3>
+      <h3>Time Series</h3>
       <p>Forecasting, trend analysis, and structured approaches to temporal data.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 Quantitative Research</h3>
+      <h3>Quantitative Research</h3>
       <p>Exploring price-time patterns, volume behavior, and reproducible signal validation.</p>
     </td>
   </tr>
@@ -79,7 +79,7 @@ flowchart LR
 | **Applied ML Classification Projects** | Structured experiments for data cleaning, feature preparation, model training, and evaluation on tabular datasets. | Python, Scikit-learn, TensorFlow |
 | **Economic & Energy Time Series** | Exploratory and multivariate analysis of economic indicators, production data, and commodity-price dynamics. | Python, Pandas, Statsmodels |
 
-> 📌 The repositories below are a growing collection of experiments, portfolio projects, and reproducible analytics workflows.
+>  The repositories below are a growing collection of experiments, portfolio projects, and reproducible analytics workflows.
 
 ---
 
